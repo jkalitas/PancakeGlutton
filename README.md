@@ -6,7 +6,7 @@ This helped me understand and explore the language itself.Hope this could help s
 
 Feel free to comment, suggest or criticize.
 
-##Problem
+## Problem
 
 **Note**: this problem was retrieved from [here](http://www.cplusplus.com/forum/articles/12974/) 
 
