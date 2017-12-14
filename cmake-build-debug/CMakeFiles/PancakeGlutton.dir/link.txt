@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PancakeGlutton.dir/main.cpp.o CMakeFiles/PancakeGlutton.dir/Glutton.cpp.o  -o PancakeGlutton 

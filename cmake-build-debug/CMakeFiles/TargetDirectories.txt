@@ -1,0 +1,3 @@
+/home/jsilva/sandbox/PancakeGlutton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jsilva/sandbox/PancakeGlutton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jsilva/sandbox/PancakeGlutton/cmake-build-debug/CMakeFiles/PancakeGlutton.dir

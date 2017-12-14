@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jsilva/sandbox/PancakeGlutton/Glutton.cpp
+Glutton.h
+/home/jsilva/sandbox/PancakeGlutton/Glutton.h
+
+/home/jsilva/sandbox/PancakeGlutton/Glutton.h
+iostream
+-
+
+/home/jsilva/sandbox/PancakeGlutton/main.cpp
+iostream
+-
+Glutton.h
+/home/jsilva/sandbox/PancakeGlutton/Glutton.h
+vector
+-
+algorithm
+-
+
